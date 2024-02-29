@@ -1,6 +1,6 @@
 # Hall-Sensor-Board
 ![Main product image](pickle_hall.png)
-![Main product image](pickle_hall2.png)
+![Main product image](pickle_hall_2.png)
 This board is for anyone who has a motor with a busted hall sensor board that needs fixing
 
 
