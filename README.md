@@ -9,5 +9,7 @@ Required files are included in the production folder
 
 jlcpcb
 gerber -> hall_sensor_board.zip
+
 materials -> bom.csv
+
 placement -> positions.csv
