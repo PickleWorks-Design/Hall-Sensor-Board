@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+,af4c8d2e-6e3c-4016-b70e-df9501a44249,1,,
+"C1, C2, C3",0603,3,C_Small,C53987
+J1,hall_connector,1,Conn_01x06,DNP
+"R1, R2, R3",0603,3,3k3,C22978
+TH1,0603,1,Thermistor_NTC,C338606
+"U1, U2, U3",TLE4945LHALA1,3,TLE4945LHALA1,
